@@ -1,7 +1,7 @@
 @import url(../main/nav/nav.css);
 
 .wrap {
-    background: url('./photo1703619165.jpeg') no-repeat center center;
+    background: url('/./img/photo1703619165.jpeg') no-repeat center center;
     background-size: cover;
     z-index: 0;
 }
