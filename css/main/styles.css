@@ -1,6 +1,10 @@
 @import url('../main/nav/nav.css');
 
 .wrap {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    min-height: 100%;
     background: url('/okssport/img/21.jpeg') no-repeat center center;
     background-size: cover;
     z-index: 0;
